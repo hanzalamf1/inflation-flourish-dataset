@@ -1,4 +1,5 @@
-# 🌍 Inflation Dataset and Analysis Scripts
+# English Description:
+ # 🌍 Inflation Dataset and Analysis Scripts
 
 This folder contains **annual inflation data for countries**, related **meta information** (country, region, flag), and the **Python scripts** used to work with this data. The files are organized to be easily used in platforms like [**Flourish**](https://flourish.studio/) for visualization purposes.
 
@@ -65,7 +66,8 @@ This folder contains **annual inflation data for countries**, related **meta inf
 
 ## 🏁 Flag Race Example (With SVG Flags)
 
-> A placeholder area below is reserved for a Flag Race chart created in Flourish:
+<img width="990" height="713" alt="flourish_flag_race_sample" src="https://github.com/user-attachments/assets/6bdc9856-2c6a-4844-ac5e-e9f1e840d9f8" />
+
 
 📝 **Note:** Use `annual_meta_with_inflation.csv` for visualization.
 
@@ -89,7 +91,7 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 Feel free to use, modify, and share it.
 
 ---
-
+# Türkçe Açıklama:
 # 🌍 Enflasyon Veri Seti ve Analiz Scriptleri
 
 Bu klasör, **ülkelerin yıllık enflasyon verilerini**, ilgili **meta bilgileri** (ülke, bölge, bayrak) ve bu verilerle çalışan **Python scriptlerini** içerir. Veriler, özellikle [**Flourish**](https://flourish.studio/) gibi görselleştirme platformlarında kolayca kullanılabilecek şekilde düzenlenmiştir.
@@ -157,7 +159,8 @@ Bu klasör, **ülkelerin yıllık enflasyon verilerini**, ilgili **meta bilgiler
 
 ## 🏁 Flag Race Örneği (SVG Bayraklarla)
 
-> Aşağıda Flourish kullanılarak oluşturulmuş bir Flag Race (Bayrak Yarışı) görseli için boşluk bırakılmıştır:
+<img width="990" height="713" alt="flourish_flag_race_sample" src="https://github.com/user-attachments/assets/1aa91574-1e6f-41da-ae73-d4bb0a4e0221" />
+
 
 📝 **Not:** Görselleştirme için `annual_meta_with_inflation.csv` dosyasını kullanınız.
 
